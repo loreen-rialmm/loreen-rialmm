@@ -2,8 +2,7 @@
 
 💻 Full-Stack Web Developer in Training | UI/UX Explorer | Coffee-Fueled Code Wizard ☕
 
-![Typing Effect](https://imgur.com/a/ZOquPTP)
-
+![Typing Effect](https://i.imgur.com/chovrle.gif)
 
 ---
 
@@ -79,8 +78,8 @@ Netflix binges & storytelling inspiration 🎬
 
 ---
 
-### ⚡ Fun Fact
-> “Hopefully, I am not throwing away my shot.” ✨
+### 💡 Motto  
+> Hopefully, I am not throwing away my shot. ✨
 
 ---
 
