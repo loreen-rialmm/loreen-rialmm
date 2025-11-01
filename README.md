@@ -13,7 +13,7 @@ I enjoy **crafting clean, interactive websites**, optimizing user experiences, a
 You’ll usually find me:
 
 - Debugging with a cup of coffee in hand ☕
-- Experimenting with **colors, grids, and hover effects**
+- Experimenting with **colors, grids, and hover effects** 🌟
 - Watching shows and movies for creative inspiration 🎬
 - Jamming to music—from indie and K-pop to Hamilton bops 🎶
 - Sketching or doodling whenever inspiration strikes ✏️
@@ -57,7 +57,7 @@ Slice of Life • Sports • Relaxing & feel-good series
 
 ### **Movies & TV Shows**
 Modern Family • Abbott Elementary • The 100 • Grey’s Anatomy
-Netflix binges & storytelling inspiration 🎬
+Netflix binges & storytelling inspiration 
 
 ---
 
@@ -74,12 +74,12 @@ Netflix binges & storytelling inspiration 🎬
 - My journey learning web development
 - Full-stack projects & UI/UX experiments
 - Responsive design, grids, pixel-perfect layouts
-- Music, anime, movies, and creative hobbies 🎨🎵
+- Music, anime, movies, and creative hobbies 
 
 ---
 
 ### 💡 Motto  
-> Hopefully, I am not throwing away my shot. ✨
+> ✨ Hopefully, I am not throwing away my shot. ✨
 
 ---
 
